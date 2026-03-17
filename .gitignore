@@ -1,1 +1,23 @@
+# Node modules
+node_modules/
+
+# Visual Studio
+.vs/
+
+# Logs
+*.log
+npm-debug.log*
+
+# Environment files
+.env
+
+# Build folders
+dist/
+build/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Package files
 *.tgz
