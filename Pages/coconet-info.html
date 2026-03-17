@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>AutoJam Studio</title>
+
+    <style>
+        body {
+            font-family: Arial;
+            background: #111;
+            color: white;
+            text-align: center;
+            padding: 50px;
+        }
+
+        .container {
+            max-width: 800px;
+            margin: auto;
+        }
+
+        button {
+            padding: 15px 30px;
+            margin: 20px;
+            background: #4CAF50;
+            border: none;
+            color: white;
+            font-size: 16px;
+            border-radius: 8px;
+            cursor: pointer;
+        }
+    </style>
+</head>
+
+<body>
+
+    <div class="container">
+
+        <h1>Coconet – AI Harmonization</h1>
+
+        <p>
+            Coconet is an AI model designed to generate harmonies for musical
+            compositions. It can take an incomplete musical score and intelligently
+            fill in missing notes to create a complete harmony.
+        </p>
+
+        <h3>How it Works</h3>
+
+        <p>
+            The system is based on a convolutional neural network trained on
+            Bach chorales. It learns patterns of harmony and predicts missing
+            notes in polyphonic music.
+        </p>
+
+        <h3>Features</h3>
+
+        <p>
+            • AI harmony generation<br>
+            • Polyphonic music support<br>
+            • Interactive music editing<br>
+            • Classical style composition
+        </p>
+
+        <button onclick="goHome()">Back to Home</button>
+
+        <button onclick="openDemo()">Open Playboard</button>
+
+
+    </div>
+
+    <script>
+
+function openDemo(){
+window.location.href="../coconet/index.html";
+}
+
+function goHome(){
+window.location.href="../index.html";
+}
+
+    </script>
+
+</body>
+</html>

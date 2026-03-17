@@ -1,0 +1,19 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Run Tenori-Off",
+      "type": "node",
+      "request": "launch",
+      "program": "${workspaceFolder}/node_modules/http-server/bin/http-server",
+      "args": [
+        "-c-1",
+        "-p",
+        "8000"
+      ],
+      "cwd": "${workspaceFolder}",
+      "console": "integratedTerminal",
+      "runtimeExecutable": "node"
+    }
+  ]
+}

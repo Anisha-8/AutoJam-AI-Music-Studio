@@ -3,22 +3,67 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Magenta Glitch Demos</title>
+    <title>AutoJam Studio</title>
+
+    <style>
+
+        body {
+            font-family: Arial;
+            background: #111;
+            color: white;
+            text-align: center;
+            padding-top: 100px;
+        }
+
+        h1 {
+            font-size: 40px;
+            margin-bottom: 50px;
+        }
+
+        button {
+            padding: 20px 40px;
+            font-size: 18px;
+            margin: 20px;
+            border: none;
+            border-radius: 10px;
+            cursor: pointer;
+            background: #4CAF50;
+            color: white;
+        }
+
+            button:hover {
+                background: #2e7d32;
+            }
+    </style>
 </head>
 <body>
-    <h1>Magenta Glitch Demos</h1>
-    <ul>
+    <h1>AutoJam AI Music Studio</h1>
+
+
+    <button onclick="openTenori()">Drums (AI Music Improviser)</button>
+
+    <button onclick="openCoconet()">Alto, Tenor, Bass (AI Harmonizer)</button>
+
+    <script>
+        //function openTenori() {
+        //    window.location.href="tenori-off/index.html";
+        //}
+
+        //function openCoconet(){
+        //    window.location.href="coconet/index.html";
+        //}
+        function openTenori() {
+            window.location.href = "pages/tenori-info.html";
+        }
+
+        function openCoconet() {
+            window.location.href = "pages/coconet-info.html";
+        }
+    </script>
+
+    <!--<ul>
         <li><a href="coconet/">coconet</a></li>
-        <li><a href="drumbot/">drumbot</a></li>
-        <li><a href="groove-drums/">groove-drums</a></li>
-        <li><a href="hello-magenta/">hello-magenta</a></li>
-        <li><a href="magic-sketchpad/">magic-sketchpad</a></li>
-        <li><a href="midi-me/">midi-me</a></li>
-        <li><a href="ml-jam/">ml-jam</a></li>
-        <li><a href="piano-genie/">piano-genie</a></li>
-        <li><a href="piano-scribe/">piano-scribe</a></li>
-        <li><a href="style-transfer/">style-transfer</a></li>
         <li><a href="tenori-off/">tenori-off</a></li>
-    </ul>
+    </ul>-->
 </body>
 </html>

@@ -1,0 +1,115 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sharon\\OneDrive\\Desktop\\MCA\\SEM 3\\Project\\Project Repo\\glitch\\tenori-off\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sharon\\OneDrive\\Desktop\\MCA\\SEM 3\\Project\\Project Repo\\glitch\\tenori-off\\tasks.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:tasks.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sharon\\Desktop\\MCA\\SEM 3\\Project\\Project Repo\\glitch\\tenori-off\\launch.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sharon\\OneDrive\\Desktop\\MCA\\SEM 3\\Project\\Project Repo\\glitch\\tenori-off\\manifest.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:manifest.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sharon\\OneDrive\\Desktop\\MCA\\SEM 3\\Project\\Project Repo\\glitch\\tenori-off\\package-lock.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:package-lock.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sharon\\OneDrive\\Desktop\\MCA\\SEM 3\\Project\\Project Repo\\glitch\\tenori-off\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sharon\\OneDrive\\Desktop\\MCA\\SEM 3\\Project\\Project Repo\\glitch\\tenori-off\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "tasks.json",
+              "DocumentMoniker": "C:\\Users\\Sharon\\OneDrive\\Desktop\\MCA\\SEM 3\\Project\\Project Repo\\glitch\\tenori-off\\tasks.json",
+              "RelativeDocumentMoniker": "tasks.json",
+              "ToolTip": "C:\\Users\\Sharon\\OneDrive\\Desktop\\MCA\\SEM 3\\Project\\Project Repo\\glitch\\tenori-off\\tasks.json",
+              "RelativeToolTip": "tasks.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-05T14:24:42.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "launch.json",
+              "DocumentMoniker": "C:\\Users\\Sharon\\Desktop\\MCA\\SEM 3\\Project\\Project Repo\\glitch\\tenori-off\\launch.json",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\Desktop\\MCA\\SEM 3\\Project\\Project Repo\\glitch\\tenori-off\\launch.json",
+              "ToolTip": "C:\\Users\\Sharon\\Desktop\\MCA\\SEM 3\\Project\\Project Repo\\glitch\\tenori-off\\launch.json",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\Desktop\\MCA\\SEM 3\\Project\\Project Repo\\glitch\\tenori-off\\launch.json",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-05T14:12:05.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "manifest.json",
+              "DocumentMoniker": "C:\\Users\\Sharon\\OneDrive\\Desktop\\MCA\\SEM 3\\Project\\Project Repo\\glitch\\tenori-off\\manifest.json",
+              "RelativeDocumentMoniker": "manifest.json",
+              "ToolTip": "C:\\Users\\Sharon\\OneDrive\\Desktop\\MCA\\SEM 3\\Project\\Project Repo\\glitch\\tenori-off\\manifest.json",
+              "RelativeToolTip": "manifest.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-05T14:11:25.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "package-lock.json",
+              "DocumentMoniker": "C:\\Users\\Sharon\\OneDrive\\Desktop\\MCA\\SEM 3\\Project\\Project Repo\\glitch\\tenori-off\\package-lock.json",
+              "RelativeDocumentMoniker": "package-lock.json",
+              "ToolTip": "C:\\Users\\Sharon\\OneDrive\\Desktop\\MCA\\SEM 3\\Project\\Project Repo\\glitch\\tenori-off\\package-lock.json",
+              "RelativeToolTip": "package-lock.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-05T14:11:07.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "package.json",
+              "DocumentMoniker": "C:\\Users\\Sharon\\OneDrive\\Desktop\\MCA\\SEM 3\\Project\\Project Repo\\glitch\\tenori-off\\package.json",
+              "RelativeDocumentMoniker": "package.json",
+              "ToolTip": "C:\\Users\\Sharon\\OneDrive\\Desktop\\MCA\\SEM 3\\Project\\Project Repo\\glitch\\tenori-off\\package.json",
+              "RelativeToolTip": "package.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-05T14:08:47.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\Sharon\\OneDrive\\Desktop\\MCA\\SEM 3\\Project\\Project Repo\\glitch\\tenori-off\\index.html",
+              "RelativeDocumentMoniker": "index.html",
+              "ToolTip": "C:\\Users\\Sharon\\OneDrive\\Desktop\\MCA\\SEM 3\\Project\\Project Repo\\glitch\\tenori-off\\index.html",
+              "RelativeToolTip": "index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-10-05T14:07:38.784Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>AutoJam Studio</title>
+
+    <style>
+        body {
+            font-family: Arial;
+            background: #111;
+            color: white;
+            text-align: center;
+            padding: 50px;
+        }
+
+        .container {
+            max-width: 800px;
+            margin: auto;
+        }
+
+        button {
+            padding: 15px 30px;
+            margin: 20px;
+            background: #4CAF50;
+            border: none;
+            color: white;
+            font-size: 16px;
+            border-radius: 8px;
+            cursor: pointer;
+        }
+    </style>
+</head>
+
+<body>
+
+    <div class="container">
+
+        <h1>Drums – AI Music Improviser</h1>
+
+        <p>
+            Tenori-Off is an AI-powered music sequencer that generates new musical
+            patterns based on user input. Users create a melody on a grid and the
+            AI model improvises variations in real time.
+        </p>
+
+        <h3>How it Works</h3>
+
+        <p>
+            The system uses neural networks from Magenta.js to analyze rhythm
+            and melody patterns. Once the user enters notes into the grid,
+            the AI predicts new notes that match the musical style.
+        </p>
+
+        <h3>Features</h3>
+
+        <p>
+            • Interactive music grid<br>
+            • AI melody generation<br>
+            • Real-time improvisation<br>
+            • Drum and synth layers
+        </p>
+
+        <button onclick="goHome()">Back to Home</button>
+
+        <button onclick="openDemo()">Open Playboard</button>
+
+
+    </div>
+
+    <script>
+
+function openDemo(){
+window.location.href="../tenori-off/index.html";
+}
+
+function goHome(){
+window.location.href="../index.html";
+}
+
+    </script>
+
+</body>
+</html>
