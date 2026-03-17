@@ -43,6 +43,31 @@ This project has been extended beyond the original open-source version with the 
 npm install
 npm start
 
+## 📸 Screenshots
+
+### Home Page
+![Home](assets/home.png)
+
+---
+
+### Drums/Tenori-off Page
+![Home](assets/drums_home.png)
+
+---
+
+###  Drums Interface
+![Drums](assets/drums_playboard.png)
+
+---
+
+### 🥁 Piano/Coconet Page
+![Home](assets/piano_description.png)
+
+---
+
+###  Piano Interface
+![Piano](assets/piano_playboard.png)
+
 ## Future Improvements
 - Add user authentication
 - Add more instruments like guitar, bass, and piano.
