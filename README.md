@@ -43,7 +43,7 @@ This project has been extended beyond the original open-source version with the 
 - npm install
 - npm start
 
-## 📸 Screenshots
+## Screenshots
 
 ### Home Page
 ![Home](assets/home.png)
@@ -60,7 +60,7 @@ This project has been extended beyond the original open-source version with the 
 
 ---
 
-### 🥁 Piano/Coconet Page
+### Piano/Coconet Page
 ![Home](assets/piano_description.png)
 
 ---
@@ -77,5 +77,5 @@ This project has been extended beyond the original open-source version with the 
 - Add cloud saving and collaboration to share music easily.
 
 
-## Credits
+# Credits
 This project is based on open-source implementations, customized and enhanced for learning and development purposes.
