@@ -40,8 +40,8 @@ This project has been extended beyond the original open-source version with the 
 - SVG
 
 ## How to Run
-npm install
-npm start
+- npm install
+- npm start
 
 ## 📸 Screenshots
 
